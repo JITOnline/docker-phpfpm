@@ -1,5 +1,5 @@
-# Use the lightweight Alpine-based PHP 8.4 FPM image
-FROM php:8.4-fpm-alpine
+# Use the lightweight Alpine-based PHP 8.5 FPM image
+FROM php:8.5-fpm-alpine
 
 # 1. Install system dependencies for WordPress extensions
 # We include build-base and autoconf temporarily to compile PECL extensions
