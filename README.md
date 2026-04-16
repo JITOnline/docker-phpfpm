@@ -1,2 +1,2 @@
-# docker-phfpm
+# docker-phpfpm
 Docker Image of phpfpm
